@@ -2,4 +2,4 @@
 user:
   discountFactor: 2
 server:
-  port: 4040
+  port: 2525
